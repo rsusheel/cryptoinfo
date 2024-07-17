@@ -70,7 +70,7 @@ Crypto-Tracker/
    ```bash
    npm start
    ```
-   The Express server will run on http://localhost:5000.
+   The Express server will run on http://localhost:3001.
 
 ### Usage
 
@@ -78,7 +78,14 @@ After starting both the client and server, you can navigate to http://localhost:
 
 ### Screenshots
 
-![Dashboard View](screenshots/1.png "Dashboard View")
-![Dashboard View](screenshots/2.png "Dashboard View")
-![Dashboard View](screenshots/3.png "Dashboard View")
-![Dashboard View](screenshots/4.png "Dashboard View")
+1. The initial dashboard. You can click on the row that you wish to replace with some other crypto.
+   ![Dashboard View](screenshots/1.png "Dashboard View")
+
+2. You'll get a pop up with all the list of available crypto. You can select directly or search.
+   ![Dashboard View](screenshots/2.png "Dashboard View")
+
+3. As you type the results get filtered and you can find the crypto you're looking for easily and select it.
+   ![Dashboard View](screenshots/3.png "Dashboard View")
+
+4. Finally the dashboard gets updated and will display data for the updated list of cryptos.
+   ![Dashboard View](screenshots/4.png "Dashboard View")
