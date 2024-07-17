@@ -29,8 +29,8 @@ Crypto-Tracker/
 
 ### Prerequisites
 
-- Node.js (version 14.x or higher)
-- npm (version 6.x or higher)
+- Node.js (version 18.x or higher)
+- npm (version 9.x or higher)
 - MongoDB Atlas account
 
 ### Setting Up the Client
