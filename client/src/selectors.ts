@@ -1,0 +1,1 @@
+export const getData = (state: { data: any; }) => state.data;
