@@ -49,7 +49,7 @@ Crypto-Tracker/
    ```
    The React application will run on http://localhost:3000.
 
-### Setting Up the Client
+### Setting Up the Server
 
 1. Navigate to the `server` directory:
    ```bash
@@ -59,7 +59,7 @@ Crypto-Tracker/
    ```makefile
    API_URL=https://api.coingecko.com/api/v3
    API_KEY=your_coingecko_api_key
-   PORT=5000
+   PORT=3001
    DB_URI=your_mongodb_atlas_uri
    ```
 3. Install the dependencies:
