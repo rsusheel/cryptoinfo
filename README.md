@@ -75,3 +75,10 @@ Crypto-Tracker/
 ### Usage
 
 After starting both the client and server, you can navigate to http://localhost:3000 to interact with the application. The client will make API requests to the server to fetch real-time price data from the CoinGecko API and display it on the website.
+
+### Screenshots
+
+![Dashboard View](screenshots/1.png "Dashboard View")
+![Dashboard View](screenshots/2.png "Dashboard View")
+![Dashboard View](screenshots/3.png "Dashboard View")
+![Dashboard View](screenshots/4.png "Dashboard View")
