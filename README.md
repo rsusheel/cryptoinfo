@@ -7,6 +7,7 @@ This project is a mini-website that collects and displays real-time price data f
 
 ## Project Structure
 
+<pre>
 Crypto-Tracker/
 │
 ├── client/ # React application (TypeScript)
@@ -22,6 +23,7 @@ Crypto-Tracker/
 ├── package.json
 ├── tsconfig.json
 └── ...
+</pre>
 
 ## Getting Started
 
