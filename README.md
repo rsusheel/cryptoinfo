@@ -45,8 +45,7 @@ Crypto-Tracker/
    ```bash
    npm start
    ```
-
-The React application will run on http://localhost:3000.
+   The React application will run on http://localhost:3000.
 
 ### Setting Up the Client
 
